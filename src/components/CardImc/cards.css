@@ -1,0 +1,32 @@
+.imcCard {
+  padding: 16px;
+  margin: 12px;
+  border-radius: 12px;
+  font-family: sans-serif;
+  width: 220px;
+}
+
+.imcVerde {
+  background-color: #b6fcb6;
+}
+
+.imcAmarelo {
+  background-color: #fff69b;
+}
+
+.imcVermelho {
+  background-color: #fdaaaa;
+}
+
+button {
+  margin: 0 5px;
+  padding: 4px 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #ddd;
+}
